@@ -28,12 +28,14 @@ const modes = [
 ];
 
 const staff = [
-  { name: "Notch", role: "Owner", color: "text-primary" },
-  { name: "Jeb_", role: "Co-Owner", color: "text-primary" },
-  { name: "Dinnerbone", role: "Admin", color: "text-secondary" },
-  { name: "Grumm", role: "Developer", color: "text-secondary" },
-  { name: "Alex", role: "Moderator", color: "text-foreground" },
-  { name: "Steve", role: "Helper", color: "text-muted-foreground" },
+  { name: "Sparklyonion278", role: "Owner", color: "text-primary" },
+  { name: "Neonwolf321", role: "Owner", color: "text-primary" },
+  { name: "BIS", role: "Manager", color: "text-secondary" },
+  { name: "God", role: "Developer", color: "text-secondary" },
+  { name: "A1_God", role: "Trainee", color: "text-foreground" },
+  { name: "A1_God", role: "Trainee", color: "text-foreground" },
+  { name: "DEEZMONS", role: "Trainee", color: "text-foreground" },
+  { name: "Not_LUFFYYzy", role: "Trainee", color: "text-foreground" },
 ];
 
 function Index() {
